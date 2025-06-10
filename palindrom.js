@@ -14,5 +14,6 @@ function palinrom(num) {
 
 
 console.log(palinrom(121));
+console.log(palinrom(-121));
 
 
