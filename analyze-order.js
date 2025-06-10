@@ -1,6 +1,6 @@
 const order=[200,450,130,50,1000,20]
 
-let print=order.forEach((value)=>console.log(value))
+let print=order.forEach((value)=> console.log(value))
 
 console.log(print);
 
